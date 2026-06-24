@@ -4,3 +4,10 @@ contexto/
 .DS_Store
 CONTEXTO_MARCA.md
 CONTEXTO_MARCA.md.premigracion
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
